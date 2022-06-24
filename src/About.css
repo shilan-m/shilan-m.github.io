@@ -1,0 +1,23 @@
+.About {
+    text-align: left;
+    background-color: #282c34;
+    min-width: 50%;
+    min-height: 100vh;
+    color: white;
+}
+  
+.About-header {
+    min-height: 10vh;
+    text-align: center;
+    display: flex;
+    flex-direction: column;
+    align-items: center;
+    justify-content: center;
+    font-size: calc(10px + 2vmin);
+}
+
+.About-info{
+    padding-left: 10px;
+}
+  
+  
