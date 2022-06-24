@@ -1,15 +1,15 @@
 {
   "files": {
-    "main.css": "/shilan-m.github.io/static/css/main.ff94c52c.css",
-    "main.js": "/shilan-m.github.io/static/js/main.bf4d09e4.js",
-    "static/js/787.28cb0dcd.chunk.js": "/shilan-m.github.io/static/js/787.28cb0dcd.chunk.js",
-    "index.html": "/shilan-m.github.io/index.html",
-    "main.ff94c52c.css.map": "/shilan-m.github.io/static/css/main.ff94c52c.css.map",
-    "main.bf4d09e4.js.map": "/shilan-m.github.io/static/js/main.bf4d09e4.js.map",
-    "787.28cb0dcd.chunk.js.map": "/shilan-m.github.io/static/js/787.28cb0dcd.chunk.js.map"
+    "main.css": "/static/css/main.ff94c52c.css",
+    "main.js": "/static/js/main.e93f68a5.js",
+    "static/js/787.28cb0dcd.chunk.js": "/static/js/787.28cb0dcd.chunk.js",
+    "index.html": "/index.html",
+    "main.ff94c52c.css.map": "/static/css/main.ff94c52c.css.map",
+    "main.e93f68a5.js.map": "/static/js/main.e93f68a5.js.map",
+    "787.28cb0dcd.chunk.js.map": "/static/js/787.28cb0dcd.chunk.js.map"
   },
   "entrypoints": [
     "static/css/main.ff94c52c.css",
-    "static/js/main.bf4d09e4.js"
+    "static/js/main.e93f68a5.js"
   ]
 }
