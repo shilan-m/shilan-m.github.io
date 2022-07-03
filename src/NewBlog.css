@@ -1,0 +1,11 @@
+.NewBlog{
+    display: flex;
+    max-height: 70%;
+}
+.BlogEditor{
+    width: 50%;
+}
+.BlogPreview{
+    width: 50%;
+    border-style: dotted;
+}

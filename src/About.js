@@ -4,7 +4,7 @@ const EducationsData = [
     {id: 2, uni: "USYD", degree: "Master of Information Technology, Major in Software Engineering"}
 ]
 const educationList = EducationsData.map((education) => 
-    <li>{education.uni} : {education.degree}</li>
+    <li key={education.id.toString()}>{education.uni} : {education.degree}</li>
 );
 
 const SESkillData = [
@@ -13,7 +13,7 @@ const SESkillData = [
     {id: 3, name: "Web", level: 4}
 ]
 const SESkillList = SESkillData.map((skill) => 
-    <li>{skill.name}  -  {skill.level}</li>
+    <li key={skill.id.toString()}>{skill.name}  -  {skill.level}</li>
 );
 function About() {
   return (
